@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Somya453
+- 👋 Hi, I’m Somya Sharma.
 - 👀 I’m interested in ... Frontend and Web Development
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... open source
