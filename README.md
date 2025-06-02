@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somya453&label=Profile%20views&color=0e75b6&style=flat" alt="somya453" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somya453" alt="somya453" /></a> </p>
-< -->
+
 - 👨‍💻 All of my projects are available at [https://github.com/Somya453/Somyaa](https://github.com/Somya453/Somyaa)
 
 - 📫 How to reach me **somyasharma0488@gmail.com**
